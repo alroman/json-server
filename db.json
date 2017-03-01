@@ -1,46 +1,53 @@
 {
   "dashboard": [
     {
+      "id": "1",
       "title": "Programs",
       "module": "brochure",
       "loadPath": "/brochure/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     },
     {
+      "id": "2",
       "title": "People",
       "module": "people",
       "loadPath": "/people/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     },
     {
+      "id": "3",
       "title": "Research",
       "module": "brochure",
       "loadPath": "/brochure/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     },
     {
+      "id": "4",
       "title": "News & Events",
       "module": "feed",
       "loadPath": "/feed/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     },
     {
+      "id": "5",
       "title": "Apply",
       "module": "brochure",
       "loadPath": "/brochure/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     },
     {
+      "id": "6",
       "title": "Giving",
       "module": "brochure",
       "loadPath": "/brochure/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     },
     {
+      "id": "7",
       "title": "About",
       "module": "page",
       "loadPath": "/page/1234",
-      "img": "icon/asset.jpg"
+      "img": "icon/asset.png"
     }
   ]
 }

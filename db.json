@@ -1,0 +1,46 @@
+{
+  "dashboard": [
+    {
+      "title": "Programs",
+      "module": "brochure",
+      "loadPath": "/brochure/1234",
+      "img": "icon/asset.jpg"
+    },
+    {
+      "title": "People",
+      "module": "people",
+      "loadPath": "/people/1234",
+      "img": "icon/asset.jpg"
+    },
+    {
+      "title": "Research",
+      "module": "brochure",
+      "loadPath": "/brochure/1234",
+      "img": "icon/asset.jpg"
+    },
+    {
+      "title": "News & Events",
+      "module": "feed",
+      "loadPath": "/feed/1234",
+      "img": "icon/asset.jpg"
+    },
+    {
+      "title": "Apply",
+      "module": "brochure",
+      "loadPath": "/brochure/1234",
+      "img": "icon/asset.jpg"
+    },
+    {
+      "title": "Giving",
+      "module": "brochure",
+      "loadPath": "/brochure/1234",
+      "img": "icon/asset.jpg"
+    },
+    {
+      "title": "About",
+      "module": "page",
+      "loadPath": "/page/1234",
+      "img": "icon/asset.jpg"
+    }
+  ]
+}
